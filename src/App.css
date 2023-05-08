@@ -1,0 +1,56 @@
+body {
+  background-color: lightblue;
+}
+
+.App {
+  
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  min-height: 100vh;
+  justify-content: center; 
+  
+  
+}
+
+.container, .login-page, .signup-page{
+  display: flex;
+  flex-direction: column;
+}
+
+.heading{
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  .App {
+  
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  
+    align-items: center;
+    min-height: 100vh;
+    justify-content: center; 
+    
+    
+  }
+  
+  .container, .login-page, .signup-page{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .heading{
+    font-style: italic;
+    font-weight: bold;
+    color:blue;
+  }
+}
