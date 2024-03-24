@@ -11,7 +11,7 @@ import axiosInstance from "axios";
 
 
 let map;
- const GOOGLE_MAPS_API_KEY = "AIzaSyDHIcfNlMlax1TzDjgOh0K-_TVASkLVdoU";
+ const GOOGLE_MAPS_API_KEY = "KEY";
 
 const client = new Client({});
 
