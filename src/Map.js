@@ -7,7 +7,7 @@ import axiosInstance from "axios";
 
 
 // /* let google = Window.google; */
-// const YOUR_API_KEY = "AIzaSyDHIcfNlMlax1TzDjgOh0K-_TVASkLVdoU"
+// const YOUR_API_KEY = ""
 
 
 let map;
